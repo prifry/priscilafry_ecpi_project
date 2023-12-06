@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\Projectpart3Code\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj": {}
+    "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\IMotivateApp\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\Projectpart3Code\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj": {
+    "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\IMotivateApp\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\Projectpart3Code\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj",
+        "projectUniqueName": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\IMotivateApp\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj",
         "projectName": "priscila_fry_project_imotivational_quote",
-        "projectPath": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\Projectpart3Code\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj",
+        "projectPath": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\IMotivateApp\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj",
         "packagesPath": "C:\\Users\\mambo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\Projectpart3Code\\priscila_fry_project_imotivational_quote\\obj\\",
+        "outputPath": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\IMotivateApp\\priscila_fry_project_imotivational_quote\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mambo\\AppData\\Roaming\\NuGet\\NuGet.Config"

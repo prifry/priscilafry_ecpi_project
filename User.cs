@@ -1,7 +1,6 @@
 using System.Text; // StringBuilder class
 /*****************************************************************************************************************
 * Priscila Fry
-* CIS317
 * Date: 11/20/2023
 *
 *  Project description:  Represents a user in the motivational application who can set and track goals,

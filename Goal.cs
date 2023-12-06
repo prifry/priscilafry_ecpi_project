@@ -3,7 +3,6 @@ using System.Data.SQLite;
 using System.Collections.Generic;
 /*********************************************************************************************************************
 * Priscila Fry
-* CIS317
 * Date: 11/20/2023
 * Project description:  This code defines an abstract class, Goal, representing a generic goal. It includes
 *   properties for the title and completion status of the goal. The abstract class is

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Oe05LRp1dVPUdUqPjcx1ya1JlegHeH8fMq3iZdwR82ua2APbJ8CuxVUtTXdR2yCpWZMvTEp3b996jQjYrT+XhA==",
+  "dgSpecHash": "WO+ZS+4PA2Cb/krBzgePDnaXnB1HLoOQC34kpjaWSN25iaYQ569rvxUk1PE/Pe6XySNeJ/W8NGuWc2UVdNkRtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\Projectpart3Code\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj",
+  "projectFilePath": "C:\\Users\\mambo\\Desktop\\CIS317AOAdvancedOOPUsingC# H.Liska\\Week3\\IMotivateApp\\priscila_fry_project_imotivational_quote\\priscila_fry_project_imotivational_quote.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mambo\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\mambo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

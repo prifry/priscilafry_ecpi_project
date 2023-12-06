@@ -1,7 +1,6 @@
 using System.Data.SQLite;
 /***************************************************************************************************
 * Priscila Fry
-* CIS317
 * Date: 11/20/2023
 *
 * Project description: Database GoalDB table with CRUD and Query.

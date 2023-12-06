@@ -3,7 +3,6 @@ using System.Runtime.InteropServices;
 
 /************************************************************
 * Priscila Fry
-* CIS317
 * Date: 11/20/2023
 * Project description: Project IMotivational
 *

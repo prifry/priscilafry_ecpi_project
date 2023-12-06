@@ -4,7 +4,6 @@ using System.Collections.Generic;
 
 /***************************************************************************************************
 * Priscila Fry
-* CIS317
 * Date: 11/20/2023
 *
 * Project description: Represents a concrete class implementing the concret Goal class.

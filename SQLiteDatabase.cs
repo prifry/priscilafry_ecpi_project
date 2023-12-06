@@ -1,6 +1,5 @@
 /*******************************************************************
 *	Name: Priscila Fry
-*	Date: 11/26/2023
 *	Assignment: CIS317 Week 4 GP - Database Interactions
 *
 *	Class to handle databse interactions with a SQLite database. The
